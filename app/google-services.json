@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "38660013450",
+    "firebase_url": "https://tracker-823a3.firebaseio.com",
+    "project_id": "tracker-823a3",
+    "storage_bucket": "tracker-823a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38660013450:android:ff85cc14e3828b59",
+        "android_client_info": {
+          "package_name": "com.hanbin.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38660013450-hc9deru54ei3n9tbencjkf1h5i6fk4i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanbin.transporttracker",
+            "certificate_hash": "5ecfaf99b54e7aacd8f9c9aacdda0e3a83577dab"
+          }
+        },
+        {
+          "client_id": "38660013450-5trclvnlj8v3pm8aluirpbfb4c2tjjkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1klNm00r2D85B1c7yKvu--N96Ca-Lncs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38660013450-5trclvnlj8v3pm8aluirpbfb4c2tjjkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

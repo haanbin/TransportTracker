@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransportTracker</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_email">haanbin92@gmail.com</string>
+    <string name="firebase_password">92gksqlsa5!</string>
+</resources>
